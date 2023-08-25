@@ -1,6 +1,7 @@
-## i am quack.
+# i am quack.
 
-<img src ="https://static.wikia.nocookie.net/nier-automata-community-discord/images/4/4b/Funny_duck.jpg/revision/latest?cb=20200106201748"> ✦ 
+<img src = "">
+✦ 
   <br>     ↳ 
 
 **quackleston/quackleston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
