@@ -10,7 +10,7 @@
   <br>     i.  swag and unproffesional
   <br>     ii.  serious and proffesional
   <br>     iii.  something in between
-  <br><br><br><br><br>
+  <br><br><br>
   ##
   <br>
 </div>
