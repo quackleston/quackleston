@@ -10,7 +10,10 @@
   <br>     i.  swag and unproffesional
   <br>     ii.  serious and proffesional
   <br>     iii.  something in between
-  <br><br><br>
+<br><br>
+✦  **diguises:**
+  <br>     ↳  <a href="https://www.instagram.com/quackleston/">instagram</a> 
+  <br>     ↳  <a href="https://leetcode.com/quackleston/">leetcode </a>
   ##
   <br>
 </div>
@@ -19,12 +22,7 @@
   <br>     i.  kindergarten - grade 7: Trafalgar Elementary
   <br>     ii.  grade 8: Prince of Wales Secondary School
 
-
 ✦  **a little about me:**
-  <br>     My preferred name is Betty, and my birthday is October the 28th (10-2=8!)
+  <br>     preferred name: Betty <br>     birthday: October 28 (10-2=8) <br>     hobbies: drawing, coding, playing the piano, and swimming
 
-
-✦  **diguises:**
-  <br>     ↳  <a href="https://www.instagram.com/quackleston/">instagram</a> 
-  <br>     ↳  <a href="https://leetcode.com/quackleston/">leetcode </a>
 
