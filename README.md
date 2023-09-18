@@ -1,4 +1,4 @@
-# i am quackleston.
+# Q U A C K
 
 <img align=right src = "https://github.com/quackleston/quackleston/assets/137237933/25d613a8-a50a-460f-b9e6-51ee1f0227ff" width=20%/>
 <img align=right src = "https://github.com/quackleston/quackleston/assets/137237933/8ac0f0c7-0879-4422-bb05-94ba5034c591" width=23.8%/>
@@ -14,18 +14,17 @@
   ##
   <br>
 </div>
-  
 
-**quackleston/quackleston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✦  **education:**
+  <br>     i.  kindergarten - grade 7: Trafalgar Elementary
+  <br>     ii.  grade 8: Prince of Wales Secondary School
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+✦  **a little about me:**
+  <br>     My preferred name is Betty, and my birthday is October the 28th (10-2=8!)
+
+
+✦  **diguises:**
+  <br>     ↳  <a href="https://www.instagram.com/quackleston/">instagram</a> 
+  <br>     ↳  <a href="https://leetcode.com/quackleston/">leetcode </a>
 
