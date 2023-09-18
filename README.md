@@ -5,7 +5,7 @@
 <img align=right src = "https://static.wikia.nocookie.net/atheal/images/2/2d/Duck.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180722142252" width=20%/>
 
 <div align=left width=20%>
-  
+
 ✦  **i have three moods:**
   <br>     i.  swag and unproffesional
   <br>     ii.  serious and proffesional
@@ -14,9 +14,10 @@
 ✦  **diguises:**
   <br>     ↳  <a href="https://www.instagram.com/quackleston/">instagram</a> 
   <br>     ↳  <a href="https://leetcode.com/quackleston/">leetcode </a>
+  </div>
+  <!--  
   ##
   <br>
-</div>
 
 ✦  **education:**
   <br>     i.  kindergarten - grade 7: Trafalgar Elementary
@@ -25,4 +26,4 @@
 ✦  **a little about me:**
   <br>     preferred name: Betty <br>     birthday: October 28 (10-2=8) <br>     hobbies: drawing, coding, playing the piano, and swimming
 
-
+-->
