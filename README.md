@@ -1,4 +1,4 @@
-# Q U A C K
+# I T ' S - A - M E
 
 <img align=right src = "https://github.com/quackleston/quackleston/assets/137237933/25d613a8-a50a-460f-b9e6-51ee1f0227ff" width=20%/>
 <img align=right src = "https://github.com/quackleston/quackleston/assets/137237933/8ac0f0c7-0879-4422-bb05-94ba5034c591" width=23.8%/>
