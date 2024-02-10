@@ -7,8 +7,8 @@
 <div align=left width=20%>
 
 ✦  **i have three moods:**
-  <br>     i.  swag and unproffesional
-  <br>     ii.  serious and proffesional
+  <br>     i.  swag and unprofessional
+  <br>     ii.  serious and professional
   <br>     iii.  something in between
 <br><br>
 ✦  **diguises:**
