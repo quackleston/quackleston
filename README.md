@@ -1,14 +1,13 @@
 # update this ltr
 
-<img align=right src = "https://github.com/quackleston/quackleston/assets/137237933/8ac0f0c7-0879-4422-bb05-94ba5034c591" width=23.8%/>
-<img align=right src = "https://static.wikia.nocookie.net/atheal/images/2/2d/Duck.jpg/revision/latest/thumbnail/width/360/height/360?cb=20180722142252" width=20%/>
-
-<div align=left width=20%>
+<img align=LEFT src = "https://i.pinimg.com/474x/f6/c1/25/f6c125a041cd9aa7475c692984fdd544.jpg" width=23.8%/>
+<img align=LEFT src = "https://i.pinimg.com/474x/23/8d/46/238d460bc65ae86dfef665a94becb14c.jpg" width=33.6%/>
 <br><br>
-✦  **diguises:**
-  <br>     ↳  <a href="https://www.instagram.com/quackleston/">instagram</a> 
-  <br>     ↳  <a href="https://leetcode.com/quackleston/">leetcode </a>
-  </div>
+<div align=justify>
+☆ ** L I N K S ! **
+  <br> <a href="https://www.instagram.com/quackleston/">instagram</a> 
+  <br> <a href="https://leetcode.com/quackleston/">leetcode </a>
+</div>
   <!--  
   ##
   <br>
